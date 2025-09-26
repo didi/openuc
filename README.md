@@ -127,3 +127,6 @@ sdk/ <br>
      - Net_StateHardData_Send: 心跳状态发送
      - CheckTimeOut: 超时重发处理
      - NetTimeOutSet/Clear: 超时管理
+## 测试工作台
+开放充电通用协议对应的官方沙箱测试平台为：http://openuc-saas.yqcd.cc/#/login
+此平台用于桩企开发完成桩端侧的程序开发后需要和远端的云平台进行联调，即完成端到云的整个链路的调试工作。
