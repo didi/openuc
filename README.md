@@ -1,4 +1,7 @@
-# OpenUC(开放充电通用协议,open UniCharge)
+# OpenUC(开放充电通用协议,Open UniCharge)
+
+> Open protocol and SDK framework for communication between EV charging piles and cloud platforms | 电动汽车充电桩与云端运营平台的开放通信协议及SDK框架
+
 ## 项目说明
 本项目提供开放充电通用协议定义文档、提供桩侧的SDK包以及提供云平台协议解析SDK文档。
 ### 开放充电通用协议
