@@ -13,6 +13,7 @@ import static com.openuc.cloud.sdk.common.Constants.START_CHARGE_CMD;
 
 /**
  * @author fangshun
+ * @author lanxin.liao
  */
 public class StartChargeCmdSender extends ProtocolMessagerSender {
 

@@ -7,6 +7,7 @@ import io.netty.buffer.Unpooled;
 
 /**
  * @author fangshun
+ * @author lanxin.liao
  */
 public class ProtocolEncoder {
 

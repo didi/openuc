@@ -7,6 +7,7 @@ import java.nio.charset.StandardCharsets;
 
 /**
  * @author fangshun
+ * @author lanxin.liao
  */
 public class AsciiUtil {
     public static String bytesToAscii(byte[] bytes) {

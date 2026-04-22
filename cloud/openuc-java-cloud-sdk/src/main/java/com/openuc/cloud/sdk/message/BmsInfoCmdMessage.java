@@ -1,5 +1,8 @@
 package com.openuc.cloud.sdk.message;
 
+/**
+ * @author lanxin.liao
+ */
 public class BmsInfoCmdMessage extends CmdMessage {
     private String chargeFlowSn; //交易流水号
 

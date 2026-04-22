@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x25
  * 充电过程 BMS 信息
+ * @author lanxin.liao
  */
 public class BmsInfoCmdDecoder implements CmdDecoder {
     @Override

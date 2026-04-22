@@ -3,6 +3,9 @@ package com.openuc.cloud.sdk.pojo;
 import java.io.Serializable;
 import java.math.BigDecimal;
 
+/**
+ * @author lanxin.liao
+ */
 public class ElectricityPeriodTimeDTO implements Serializable {
 
     /**

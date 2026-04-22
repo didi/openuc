@@ -4,6 +4,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @author fangshun
+ * @author lanxin.liao
  */
 public class SeqNoUtil {
 

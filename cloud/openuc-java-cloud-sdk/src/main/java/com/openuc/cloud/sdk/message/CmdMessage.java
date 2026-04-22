@@ -3,6 +3,7 @@ package com.openuc.cloud.sdk.message;
 /**
  * 指令数据消息体
  * @author fangshun
+ * @author lanxin.liao
  */
 public class CmdMessage {
     /**

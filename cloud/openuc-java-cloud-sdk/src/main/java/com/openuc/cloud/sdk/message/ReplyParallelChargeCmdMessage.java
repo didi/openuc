@@ -1,5 +1,8 @@
 package com.openuc.cloud.sdk.message;
 
+/**
+ * @author lanxin.liao
+ */
 public class ReplyParallelChargeCmdMessage extends CmdMessage{
     private String chargeFlowSn; //交易流水号
     private int gunCode; //枪号

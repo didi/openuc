@@ -13,6 +13,7 @@ import static com.openuc.cloud.sdk.common.Constants.REBOOT_CMD;
 /**
  * 发送远程重启命令
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class RemoteRebootCmdSender extends ProtocolMessagerSender {
 

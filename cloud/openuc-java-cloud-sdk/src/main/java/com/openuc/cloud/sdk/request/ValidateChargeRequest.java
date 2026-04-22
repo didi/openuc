@@ -1,5 +1,8 @@
 package com.openuc.cloud.sdk.request;
 
+/**
+ * @author lanxin.liao
+ */
 public class ValidateChargeRequest extends IssueRequest{
 
     public ValidateChargeRequest(String pileCode, Integer gunCode) {

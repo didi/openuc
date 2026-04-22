@@ -14,6 +14,7 @@ import static com.openuc.cloud.sdk.common.Constants.START_CHARGE_PLATFORM_ACK_CM
 /**
  * 平台确认启动充电应答发送器
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class ParallelChargeAckSender extends ProtocolMessagerSender {
 

@@ -13,6 +13,7 @@ import static com.openuc.cloud.sdk.common.Constants.CHARGE_BILLING_MODEL_VERIFY_
 /**
  * 计费模型验证请求应答
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class ValidateChargeModelAckSender extends ProtocolMessagerSender {
 

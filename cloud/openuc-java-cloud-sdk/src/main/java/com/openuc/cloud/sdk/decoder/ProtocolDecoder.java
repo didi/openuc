@@ -13,6 +13,7 @@ import static com.openuc.cloud.sdk.common.Constants.HEADER_CODE;
 /**
  * 协议解码器
  * @author  liaofangshun
+ * @author lanxin.liao
  */
 public class ProtocolDecoder {
     public void decode(ChannelHandlerContext ctx, ByteBuf in, List<Object> out) throws Exception {

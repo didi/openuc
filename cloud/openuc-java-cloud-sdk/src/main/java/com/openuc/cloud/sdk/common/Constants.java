@@ -2,6 +2,7 @@ package com.openuc.cloud.sdk.common;
 
 /**
  * @author fangshun
+ * @author lanxin.liao
  */
 public class Constants {
     // 起始字节标识

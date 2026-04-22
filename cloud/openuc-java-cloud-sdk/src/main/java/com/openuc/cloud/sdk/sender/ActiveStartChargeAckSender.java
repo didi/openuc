@@ -14,6 +14,7 @@ import static com.openuc.cloud.sdk.common.Constants.START_CHARGE_ACK_CMD;
 /**
  * 平台确认启动充电应答
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class ActiveStartChargeAckSender extends ProtocolMessagerSender {
 

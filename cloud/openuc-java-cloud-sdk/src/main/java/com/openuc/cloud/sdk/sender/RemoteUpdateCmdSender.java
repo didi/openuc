@@ -16,6 +16,7 @@ import static com.openuc.cloud.sdk.common.Constants.UPDATE_CMD;
  * 远程升级命令发送器
  * 该类负责将远程升级请求转换为协议消息并发送到指定的充电桩。
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class RemoteUpdateCmdSender extends ProtocolMessagerSender {
 

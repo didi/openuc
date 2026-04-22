@@ -5,6 +5,7 @@ import com.openuc.cloud.sdk.util.CRC16Util;
 /**
  * 校验和验证工具类
  * @author fangshun
+ * @author lanxin.liao
  */
 public class CheckSumUtil {
     /**

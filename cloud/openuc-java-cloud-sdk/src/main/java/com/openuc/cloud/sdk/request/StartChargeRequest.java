@@ -4,6 +4,7 @@ import java.util.Date;
 
 /**
  * @author fangshun
+ * @author lanxin.liao
  */
 public class StartChargeRequest extends IssueRequest{
 

@@ -6,6 +6,7 @@ import com.openuc.cloud.sdk.message.CmdMessage;
 /**
  * 指令处理器
  * @author fangshun
+ * @author lanxin.liao
  */
 public interface CmdDecoder {
     /**

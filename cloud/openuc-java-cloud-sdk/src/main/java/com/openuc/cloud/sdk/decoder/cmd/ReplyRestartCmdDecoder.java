@@ -10,6 +10,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x91
  * 远程重启应答
+ * @author lanxin.liao
  */
 public class ReplyRestartCmdDecoder implements CmdDecoder {
     @Override

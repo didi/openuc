@@ -12,6 +12,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0xA3
  * 远程并充启机命令回复
+ * @author lanxin.liao
  */
 public class ReplyParallelChargeCmdDecoder implements CmdDecoder {
     @Override

@@ -3,6 +3,7 @@ package com.openuc.cloud.sdk.util;
 /**
  * CRC 校验和工具类
  * @author fangshun
+ * @author lanxin.liao
  */
 public class CRC16Util {
     /**

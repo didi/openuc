@@ -3,6 +3,9 @@ package com.openuc.cloud.sdk.util;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+ * @author lanxin.liao
+ */
 public class TimeUtil {
     /**
      * CP56time2a

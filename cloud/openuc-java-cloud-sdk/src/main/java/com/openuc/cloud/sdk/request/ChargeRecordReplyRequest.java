@@ -1,6 +1,9 @@
 package com.openuc.cloud.sdk.request;
 
 
+/**
+ * @author lanxin.liao
+ */
 public class ChargeRecordReplyRequest extends IssueRequest{
 
     public ChargeRecordReplyRequest(String pileCode, Integer gunCode) {

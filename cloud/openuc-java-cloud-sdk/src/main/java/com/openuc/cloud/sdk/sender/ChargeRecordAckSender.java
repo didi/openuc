@@ -14,6 +14,7 @@ import static com.openuc.cloud.sdk.common.Constants.TRADE_RECORD_ACK_CMD;
 /**
  * 云平台交易记录确认应答
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class ChargeRecordAckSender extends ProtocolMessagerSender {
 

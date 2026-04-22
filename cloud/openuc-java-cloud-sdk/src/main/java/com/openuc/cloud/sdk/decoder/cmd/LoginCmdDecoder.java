@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 登录指令处理器
  * @author fangshun
+ * @author lanxin.liao
  */
 public class LoginCmdDecoder implements CmdDecoder{
     @Override

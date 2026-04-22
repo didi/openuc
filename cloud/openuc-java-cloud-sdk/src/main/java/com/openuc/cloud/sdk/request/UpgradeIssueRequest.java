@@ -1,6 +1,9 @@
 package com.openuc.cloud.sdk.request;
 
 import java.util.Map;
+/**
+ * @author lanxin.liao
+ */
 public class UpgradeIssueRequest extends IssueRequest {
 
     public UpgradeIssueRequest(String pileCode, Integer gunCode) {

@@ -10,6 +10,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x05
  * 计费模型验证请求
+ * @author lanxin.liao
  */
 public class ValidateChargeModelCmdDecoder implements CmdDecoder{
     @Override

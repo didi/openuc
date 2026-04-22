@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x57
  * 计费模型应答
+ * @author lanxin.liao
  */
 public class ReplySendChargeModelCmdDecoder implements CmdDecoder {
     @Override

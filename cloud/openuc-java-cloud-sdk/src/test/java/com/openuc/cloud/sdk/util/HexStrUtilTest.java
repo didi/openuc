@@ -4,6 +4,7 @@ import static com.openuc.cloud.sdk.util.HexStrUtil.littleEndian5BytesToLong;
 
 /**
  * @author fangshun
+ * @author lanxin.liao
  */
 public class HexStrUtilTest {
 

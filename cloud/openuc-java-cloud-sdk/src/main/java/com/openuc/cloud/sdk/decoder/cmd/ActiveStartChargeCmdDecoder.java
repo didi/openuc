@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x31
  * 充电桩主动申请启动充电
+ * @author lanxin.liao
  */
 public class ActiveStartChargeCmdDecoder implements CmdDecoder {
     @Override

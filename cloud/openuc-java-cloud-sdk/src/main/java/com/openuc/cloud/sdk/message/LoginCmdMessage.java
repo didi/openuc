@@ -2,6 +2,7 @@ package com.openuc.cloud.sdk.message;
 
 /**
  * @author fangshun
+ * @author lanxin.liao
  */
 public class LoginCmdMessage extends CmdMessage {
 

@@ -3,6 +3,9 @@ package com.openuc.cloud.sdk.message;
 import java.math.BigDecimal;
 import java.util.Date;
 
+/**
+ * @author lanxin.liao
+ */
 public class ChargeRecordCmdMessage extends CmdMessage {
 
     private String chargeFlowSn; //交易流水号

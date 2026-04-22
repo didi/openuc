@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x1B
  * 错误报文
+ * @author lanxin.liao
  */
 public class ErrorReportCmdDecoder implements CmdDecoder {
     @Override

@@ -12,6 +12,7 @@ import static com.openuc.cloud.sdk.common.Constants.STOP_CHARGE_CMD;
 /**
  * 停止充电命令发送器
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class StopChargeCmdSender extends ProtocolMessagerSender{
     @Override

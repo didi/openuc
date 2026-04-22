@@ -13,6 +13,7 @@ import io.netty.channel.ChannelFutureListener;
 /**
  * 从云平台发送数据到充电桩
  * @author fangshun
+ * @author lanxin.liao
  */
 public abstract class ProtocolMessagerSender {
 

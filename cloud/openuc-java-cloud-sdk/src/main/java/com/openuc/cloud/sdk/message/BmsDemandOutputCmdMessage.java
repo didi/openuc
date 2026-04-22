@@ -2,6 +2,9 @@ package com.openuc.cloud.sdk.message;
 
 import java.math.BigDecimal;
 
+/**
+ * @author lanxin.liao
+ */
 public class BmsDemandOutputCmdMessage extends CmdMessage {
 
     private String chargeFlowSn; //交易流水号

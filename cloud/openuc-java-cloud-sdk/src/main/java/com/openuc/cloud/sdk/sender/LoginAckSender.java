@@ -13,6 +13,7 @@ import static com.openuc.cloud.sdk.common.Constants.LOGIN_ACK_CMD;
 /**
  * 登录应答发送器
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class LoginAckSender extends ProtocolMessagerSender{
     @Override

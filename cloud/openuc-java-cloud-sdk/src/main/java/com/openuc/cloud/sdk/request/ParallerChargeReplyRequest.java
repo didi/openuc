@@ -1,5 +1,8 @@
 package com.openuc.cloud.sdk.request;
 
+/**
+ * @author lanxin.liao
+ */
 public class ParallerChargeReplyRequest extends IssueRequest{
 
     public ParallerChargeReplyRequest(String pileCode, Integer gunCode) {

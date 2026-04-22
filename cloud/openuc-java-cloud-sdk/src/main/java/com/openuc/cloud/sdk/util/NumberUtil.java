@@ -3,6 +3,9 @@ package com.openuc.cloud.sdk.util;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
+/**
+ * @author lanxin.liao
+ */
 public class NumberUtil {
     public static BigDecimal intToBigDecimalDivideMultiple(long value, int multiple) {
         return new BigDecimal(value).divide(new BigDecimal(multiple), 3, RoundingMode.HALF_UP);

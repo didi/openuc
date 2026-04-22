@@ -14,6 +14,7 @@ import java.math.BigDecimal;
 /**
  * 0x17
  * 参数配置
+ * @author lanxin.liao
  */
 public class ParamConfigCmdDecoder implements CmdDecoder{
     @Override

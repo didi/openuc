@@ -13,6 +13,7 @@ import java.math.BigDecimal;
 /**
  * 0x21
  * 充电结束⽌
+ * @author lanxin.liao
  */
 public class BmsPileStopCmdDecoder implements CmdDecoder {
     @Override

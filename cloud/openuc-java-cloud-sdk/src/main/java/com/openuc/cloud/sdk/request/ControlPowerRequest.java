@@ -3,6 +3,9 @@ package com.openuc.cloud.sdk.request;
 
 import java.util.Map;
 
+/**
+ * @author lanxin.liao
+ */
 public class ControlPowerRequest extends IssueRequest {
 
     public ControlPowerRequest(String pileCode, Integer gunCode) {

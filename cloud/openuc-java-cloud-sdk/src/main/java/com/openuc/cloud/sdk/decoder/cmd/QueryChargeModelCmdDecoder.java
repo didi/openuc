@@ -10,6 +10,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x09
  * 充电桩计费模型请求
+ * @author lanxin.liao
  */
 public class QueryChargeModelCmdDecoder implements CmdDecoder {
     @Override

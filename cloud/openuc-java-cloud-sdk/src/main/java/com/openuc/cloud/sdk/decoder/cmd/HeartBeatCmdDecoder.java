@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x03
  * 充电桩心跳包
+ * @author lanxin.liao
  */
 public class HeartBeatCmdDecoder implements CmdDecoder{
     @Override

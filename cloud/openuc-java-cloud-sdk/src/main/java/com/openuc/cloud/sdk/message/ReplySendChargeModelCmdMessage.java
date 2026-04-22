@@ -1,5 +1,8 @@
 package com.openuc.cloud.sdk.message;
 
+/**
+ * @author lanxin.liao
+ */
 public class ReplySendChargeModelCmdMessage extends CmdMessage {
 
     private int result; //结果

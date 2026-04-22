@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x93
  * 远程更新应答
+ * @author lanxin.liao
  */
 public class ReplyOtaCmdDecoder implements CmdDecoder{
     @Override

@@ -4,6 +4,9 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.List;
 
+/**
+ * @author lanxin.liao
+ */
 public class ElectricityPriceDTO implements Serializable {
 
     /**

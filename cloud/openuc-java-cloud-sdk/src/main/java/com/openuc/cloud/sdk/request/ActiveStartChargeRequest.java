@@ -1,5 +1,8 @@
 package com.openuc.cloud.sdk.request;
 
+/**
+ * @author lanxin.liao
+ */
 public class ActiveStartChargeRequest extends IssueRequest{
 
     public ActiveStartChargeRequest(String pileCode, Integer gunCode) {

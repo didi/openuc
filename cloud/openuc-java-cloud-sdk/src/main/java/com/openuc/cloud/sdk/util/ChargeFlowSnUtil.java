@@ -3,6 +3,9 @@ package com.openuc.cloud.sdk.util;
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
 
+/**
+ * @author lanxin.liao
+ */
 public class ChargeFlowSnUtil {
 
     public static String convertTradeOrderNo(String chargeFlowSn) {

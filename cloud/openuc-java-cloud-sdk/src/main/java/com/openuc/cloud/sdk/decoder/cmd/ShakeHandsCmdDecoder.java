@@ -15,6 +15,7 @@ import java.math.BigDecimal;
 /**
  * 0x15
  * 充电握手
+ * @author lanxin.liao
  */
 public class ShakeHandsCmdDecoder implements CmdDecoder {
     @Override

@@ -12,6 +12,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0xA1
  * 充电桩主动申请并充充电
+ * @author lanxin.liao
  */
 public class ParallelChargeCmdDecoder implements CmdDecoder {
     @Override

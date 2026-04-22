@@ -1,5 +1,8 @@
 package com.openuc.cloud.sdk.message;
 
+/**
+ * @author lanxin.liao
+ */
 public class BmsChargeStopCmdMessage extends CmdMessage {
 
     private String chargeFlowSn; //交流流水号

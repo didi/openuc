@@ -14,6 +14,7 @@ import static com.openuc.cloud.sdk.common.Constants.CHARGE_WORK_PARAM_SET_CMD;
 /**
  * 发送控制功率命令
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class ControlPowerCmdSender extends ProtocolMessagerSender{
     @Override

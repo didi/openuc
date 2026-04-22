@@ -13,6 +13,7 @@ import static com.openuc.cloud.sdk.common.Constants.HEARTBEAT_CMD;
 /**
  * 心跳应答发送器
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class HeartBeatAckSender extends ProtocolMessagerSender {
 

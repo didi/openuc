@@ -17,6 +17,7 @@ import static com.openuc.cloud.sdk.common.Constants.CHARGE_BILLING_MODEL_SET_CMD
 /**
  * 发送计费模型设置命令
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class FeeModelCmdSender extends ProtocolMessagerSender {
 

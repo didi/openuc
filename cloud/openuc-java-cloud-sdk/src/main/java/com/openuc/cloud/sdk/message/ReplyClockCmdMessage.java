@@ -2,6 +2,9 @@ package com.openuc.cloud.sdk.message;
 
 import java.util.Date;
 
+/**
+ * @author lanxin.liao
+ */
 public class ReplyClockCmdMessage extends CmdMessage{
 
     private Date curTime; //当前时间

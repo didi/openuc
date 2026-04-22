@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x33
  * 远程启动充电命令回复
+ * @author lanxin.liao
  */
 public class ReplyStartChargeCmdDecoder implements CmdDecoder {
     @Override

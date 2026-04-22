@@ -15,6 +15,7 @@ import java.util.Date;
 /**
  * 0x55
  * 对时设置应答
+ * @author lanxin.liao
  */
 public class ReplyClockCmdDecoder implements CmdDecoder{
     @Override

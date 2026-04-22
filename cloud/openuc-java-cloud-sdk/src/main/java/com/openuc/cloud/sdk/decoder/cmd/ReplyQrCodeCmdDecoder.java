@@ -10,6 +10,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0xF1
  * 桩应答远程下发⼆维码前缀指令
+ * @author lanxin.liao
  */
 public class ReplyQrCodeCmdDecoder implements CmdDecoder {
     @Override

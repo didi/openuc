@@ -16,6 +16,7 @@ import static com.openuc.cloud.sdk.common.Constants.CLOCK_SYNC_CMD;
 /**
  * 发送时钟同步命令
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class ClockSyncCmdSender extends ProtocolMessagerSender {
 

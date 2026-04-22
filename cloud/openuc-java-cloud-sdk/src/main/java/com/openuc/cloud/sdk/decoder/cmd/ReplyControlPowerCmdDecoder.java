@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x51
  * 充电桩⼯作参数设置应答
+ * @author lanxin.liao
  */
 public class ReplyControlPowerCmdDecoder implements CmdDecoder {
     @Override

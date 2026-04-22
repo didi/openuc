@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x1D
  * 充电阶段 BMS 中⽌
+ * @author lanxin.liao
  */
 public class BmsChargeStopCmdDecoder implements CmdDecoder {
     @Override

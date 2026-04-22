@@ -16,6 +16,7 @@ import static com.openuc.cloud.sdk.common.Constants.QR_CODE_CMD;
  * 二维码命令发送器
  * 该类负责将二维码请求转换为协议消息并发送到指定的充电桩。
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class QrcodeCmdSender extends ProtocolMessagerSender {
 

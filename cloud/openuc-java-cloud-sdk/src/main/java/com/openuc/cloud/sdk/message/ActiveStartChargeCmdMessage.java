@@ -1,5 +1,8 @@
 package com.openuc.cloud.sdk.message;
 
+/**
+ * @author lanxin.liao
+ */
 public class ActiveStartChargeCmdMessage extends CmdMessage {
 
     private int gunCode; //枪号

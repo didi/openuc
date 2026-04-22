@@ -1,5 +1,8 @@
 package com.openuc.cloud.sdk.request;
 
+/**
+ * @author lanxin.liao
+ */
 public class IssueRequest {
     /**
      * 桩编码

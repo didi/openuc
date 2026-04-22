@@ -15,6 +15,7 @@ import java.math.BigDecimal;
 /**
  * 0x23
  * 充电过程 BMS 需求与充电机输出
+ * @author lanxin.liao
  */
 public class BmsDemandOutputCmdDecoder implements CmdDecoder {
     @Override

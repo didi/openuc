@@ -11,6 +11,7 @@ import io.netty.buffer.Unpooled;
 /**
  * 0x35
  * 远程停机命令回复
+ * @author lanxin.liao
  */
 public class ReplyStopChargeCmdDecoder implements CmdDecoder {
     @Override

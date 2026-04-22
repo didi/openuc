@@ -5,6 +5,7 @@ import io.netty.buffer.ByteBuf;
 /**
  * BCD压缩工具类
  * @author fangshun
+ * @author lanxin.liao
  */
 public class BCDUtil {
 

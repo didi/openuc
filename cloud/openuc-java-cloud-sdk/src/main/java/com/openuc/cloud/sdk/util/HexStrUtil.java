@@ -1,6 +1,9 @@
 package com.openuc.cloud.sdk.util;
 
 
+/**
+ * @author lanxin.liao
+ */
 public class HexStrUtil {
 
     public static long littleEndian5BytesToLong(byte[] bytes) {

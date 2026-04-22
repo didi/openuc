@@ -2,6 +2,7 @@ package com.openuc.cloud.sdk.util;
 
 /**
  * @author fangshun
+ * @author lanxin.liao
  */
 public class BCD {
 

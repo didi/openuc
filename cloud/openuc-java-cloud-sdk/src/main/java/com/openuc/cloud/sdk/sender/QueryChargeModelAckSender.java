@@ -17,6 +17,7 @@ import static com.openuc.cloud.sdk.common.Constants.CHARGE_BILLING_MODEL_ACK_CMD
 /**
  * 发送查询充电模型应答
  * @author zhongxin
+ * @author lanxin.liao
  */
 public class QueryChargeModelAckSender extends ProtocolMessagerSender {
 

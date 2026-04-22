@@ -14,6 +14,7 @@ import java.math.BigDecimal;
 /**
  * 0x13
  * 上传实时监测数据
+ * @author lanxin.liao
  */
 public class FixedRealTimeDataCmdDecoder implements CmdDecoder {
     @Override

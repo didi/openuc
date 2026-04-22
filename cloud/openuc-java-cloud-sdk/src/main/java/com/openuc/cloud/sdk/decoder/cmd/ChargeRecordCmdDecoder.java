@@ -13,6 +13,7 @@ import java.util.Date;
 /**
  * 0x3B
  * 交易记录
+ * @author lanxin.liao
  */
 public class ChargeRecordCmdDecoder implements CmdDecoder {
     @Override

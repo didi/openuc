@@ -4,6 +4,7 @@ import java.util.Map;
 
 /**
  * @author fangshun
+ * @author lanxin.liao
  */
 public class ApplicationMessage {
 
